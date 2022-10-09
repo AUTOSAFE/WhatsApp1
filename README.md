@@ -12,11 +12,9 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
 </h4>
-<h4><font size="2"><a href="https://www.instagram.com/hikal_857/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
-</h4>
-<h4><font size="2"><a href="https://t.me/haikal857"><font color="red">TELEGRAM</font>          
+<h4><font size="2"><a href="https://www.instagram.com/xbrity2/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
+</h4>          
 </p>
 </p>
 <a href="https://trakteer.id/hw-mods-wa-haikal" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
@@ -26,7 +24,7 @@
 </p>
 <p align="center">
 </p>
-- My Name Haikal
+- My Name LANA
 </p>
 - Hello All 👋
 <br>
@@ -38,20 +36,13 @@
 <p align="center"><a href="https://github.com/HaikaltestBot123"><img src="https://github-readme-stats.vercel.app/api?username=HaikaltestBot123&show_icons=true&theme=radical"></a></p>
 </div>
 
-# Instalasi
-## Heroku Buildpack
-```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
 ## For Termux
 ```ts
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/HW-XMTeam/baseikal.git
-cd baseikal-master
+git clone https://github.com/AUTOSAFE/WhatsApp1
+cd WhatsApp1
 pkg install yarn
 yarn
 npm install
